@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  report:
+  reports:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _report
+  # _reports
   - scope:
       path: ""
-      type: report
+      type: reports
     values:
       layout: single
       author_profile: true

@@ -22,7 +22,7 @@ Awards and Fellowships
 Research Experience
 -------
   <ul>{% for post in site.reports %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 Conferences and Workshops

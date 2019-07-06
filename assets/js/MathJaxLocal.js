@@ -55,4 +55,4 @@ MathJax.Hub.Config({
   }
 });
 
-MathJax.Ajax.loadComplete("https://gkorpal.github.io/assets/js/MathJaxLocal.js");
+MathJax.Ajax.loadComplete("https://t-padma.github.io/assets/js/MathJaxLocal.js");

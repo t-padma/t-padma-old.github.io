@@ -14,10 +14,16 @@ Education
 * M.Sc. (5-year integrated) in Mathematics, ongoing
   * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
   * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/). </em>
-  
+
 Awards and Fellowships
 ------
 * [Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship](http://www.inspire-dst.gov.in/scholarship.html) - Department of Science and Technology, Government of India (August 01, 2016 - present) 
+
+Research Experience
+-------
+  <ul>{% for post in site.reports %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Conferences and Workshops
 ------

@@ -17,7 +17,7 @@ Education
 
 Awards and Fellowships
 ------
-* **Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship** - Department of Science and Technology, Government of India (August 01, 2016 - present) 
+* <u>Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship</u> - Department of Science and Technology, Government of India (August 01, 2016 - present) 
 
 Research Experience
 -------
@@ -27,4 +27,4 @@ Research Experience
 
 Conferences and Workshops
 ------
-* **Indian Women and Mathematics**, National Institute of Science Education and Research, Jatni, India (October 27-28, 2018)
+* <u>Indian Women and Mathematics</u>, National Institute of Science Education and Research, Jatni, India (October 27-28, 2018)

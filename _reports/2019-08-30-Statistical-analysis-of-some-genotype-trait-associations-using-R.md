@@ -13,7 +13,7 @@ The focus of this project was to learn the techniques of handling genetic data a
 
 [Download the fist half of the report (LaTeX)](https://t-padma.github.io/files/summer-2019-first-half.pdf): It includes my notes based on the first three chapters of the book by Foulkes.
 
-[Downloadd the second half of the report (Handwritten)](https://t-padma.github.io/files/summer-hand-written.pdf): It includes my notes based on the chapter 4 and 6 of the book by Foulkes.
+[Download the second half of the report (Handwritten)](https://t-padma.github.io/files/summer-hand-written.pdf): It includes my notes based on the chapter 4 and 6 of the book by Foulkes.
 
 The following two data sets were used:
 * [FAMuSS data](https://t-padma.github.io/files/FMS_data.csv)

@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Here you can find some first-drafts of my notes and write-ups about various topics from maths and statistics that I learned during reading projects.
+Hello! Here you can find some first-drafts of my notes and write-ups about various topics I learned during reading projects (mainly statistics).

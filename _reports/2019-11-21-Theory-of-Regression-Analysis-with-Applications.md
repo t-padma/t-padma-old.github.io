@@ -17,4 +17,4 @@ The main references for this project were the books:
 
 [Download the report](https://t-padma.github.io/files/M498-report_padma.pdf)
 
-[Download the presentation slides](https://t-padma.github.io/edited-slides.pdf)
+[Download the presentation slides](https://t-padma.github.io/files/edited-slides.pdf)

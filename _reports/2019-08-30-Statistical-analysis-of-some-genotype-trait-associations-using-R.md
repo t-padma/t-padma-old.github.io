@@ -9,8 +9,11 @@ citation:
 ---
 Work done during summer 2019 (May 16, 2019 to July 13, 2019).
 
-A brief intro/abstract.
+The focus of this project was to learn the techniques of handling genetic data arising from the population-based study of unrelated individuals. The main reference was the book "Applied Statistical Genetics with R" by Andrea S. Foulkes, and I read the chapters 1, 2, 3, 4 (half of it) and 6 from this book.
 
-$\frac{1}{2}$
+[Download the fist half of the report (LaTeX)](https://t-padma.github.io/files/summer-2019-first-half.pdf): It includes my notes based on the first three chapters of the book by Foulkes.
+[Downloadd the second half of the report (Handwritten)](https://t-padma.github.io/files/summer-hand-written.pdf): It includes my notes based on the chapter 4 and 6 of the book by Foulkes.
 
-[Download the data](http://t-padma.github.io/files/data.csv)
+The following two data sets were used:
+* [FAMuSS data](https://t-padma.github.io/files/FMS_data.csv)
+* [Virco data](https://t-padma.github.io/files/Virco_data.csv)

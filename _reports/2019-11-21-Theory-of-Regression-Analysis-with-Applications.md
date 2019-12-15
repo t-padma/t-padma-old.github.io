@@ -16,3 +16,5 @@ The main references for this project were the books:
 * "Nonparametric Statistical Methods" by *Myles Hollander et. al.* for a little bit of non-parametric regression (the chapters on "Density Estimation" and "Smoothing")
 
 [Download the report](https://t-padma.github.io/files/M498-report_padma.pdf)
+
+[Download the presentation slides](https://t-padma.github.io/edited-slides.pdf)

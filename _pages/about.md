@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Here you can find my notes for the topics I learned during reading projects in the past few years (mainly statistics). Please beware of typos!
+Hello! Here you can find my notes for the topics I learned during reading projects in the past few years.

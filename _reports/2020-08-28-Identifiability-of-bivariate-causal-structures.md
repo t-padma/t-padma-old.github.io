@@ -9,3 +9,6 @@ citation:
 ---
 Work done during spring 2020 (Jan 3, 2020 to June 9, 2020).
 
+
+
+[Download the report](https://t-padma.github.io/files/M499_report_padma-t.pdf)

@@ -14,11 +14,11 @@ Education
 * M.Sc. (5-year integrated) in Mathematics, ongoing
   * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
   * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/). </em>
-  * Current CGPA: 8.02 (10-point scale). </em>
+  * Current CGPA: 8.02 (10-point scale).
 * 11th and 12th standard at Sri Chaitanya Junior Collage, D. D. Colony, Hyderabad 
-  * Overall percentage: 96.4 % </em>
+  * Overall percentage: 96.4 % 
 * Atomic Energy Central School - 2, Hyderabad - upto 10th standard
-  * Overall grade point: 10 (10-point scale) </em>
+  * Overall grade point: 10 (10-point scale) 
 
 Awards and Fellowships
 ------

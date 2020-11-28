@@ -9,7 +9,7 @@ citation:
 ---
 Work done during spring 2020 (Jan 3, 2020 to June 9, 2020).
 
-The focus of this project was to learn some elementary causal inference involving two variables. “Elements of causal inference” by Jonas Peters et. al. has been used as the primary reference for this project. I learned about Structural Equation Models (SEMs) and the assumptions or restrictions under which these SEMs are identifiable i.e. cause and effect variables can be identified or distinguished using the joint distribution alone. Causal models LiNGAM and ANM were emphasized more than PNL and IGCI models. 
+Studied elementary causal inference with the emphasis on bi-variate structural equation models by following the book “Elements of Causal Inference” by Jonas Peters et.al. I learned about causal models like LiNGAM (Linear Non-Gaussian Additive Noise Model) and bi-variate ANM (Additive Noise model) in detail. I have a brief understanding of IGCI models (Information geometric causal infernce model) and PNL (Post non-linear model). These models help identify causal structure of the phenomena under consideration using the joint density alone. I leaned about the n-variable LiNGAM model although most of what I learned was for two variables. 
 
 
 [Download the report](https://t-padma.github.io/files/M499_report_padma-t.pdf)

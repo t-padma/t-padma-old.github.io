@@ -11,7 +11,7 @@ tags:
 
 DNA super-coiling is said to occur when the DNA strand experiences strain which is either due to over-winding or under-winding of DNA. DNA super-coiling is important in a number of biological processes. In this post we would like to use a branch of topology to explain super-coiling. Before going to the topology part, we need to know some basics about the structure of DNA. I have written this blog by following the book "The knot book : An Elementary Introduction to the mathematical theory of knots" by Colin Adams.
 
-<h3>Structure of DNA</h3>
+## Structure of DNA
 It is well known that deoxy-ribonucleic acid or DNA is a double helix that contains the instructions an organism needs to develop, live and reproduce. DNA is formed by pairs of long molecular strands that are bonded together by ladder rungs. This structure spirals around itself to get the double helix structure.
 
 ![zero](https://gaurish4math.files.wordpress.com/2018/09/pic1.jpg)
@@ -27,7 +27,7 @@ The sugar molecule of the strand is deoxy-ribose sugar molecule. The carbons of 
 
 DNA has anti parallel strands i.e. as we go down, if we run through 5' carbon to 3' carbon on one strand then we will run through  5' carbon to 3' carbon on the other strand only if we move upward. A single stranded DNA by convention has an orientation,  we should start at 5' end and move towards 3' end. On the other hand a linear duplex DNA has no orientation since a 3' site on one strand is opposite to 5' site on the other.
 
-<h4>Modelling DNA :</h4>
+## Modelling DNA
 DNA can be modelled in two ways. We can look at DNA either as a ribbon or as a curve. If we represent the DNA by the axis of the DNA, we get a curve in three dimensions. Other way to look at DNA is by considering it as a ribbon whose ends represent the two molecular strands of DNA.
 
 <figure class="image">

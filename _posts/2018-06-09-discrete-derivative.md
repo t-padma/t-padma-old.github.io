@@ -37,7 +37,7 @@ $\Delta f(x) = \frac{ f(x+1) - f(x) }{(x+1) - x} = f(x+1) - f(x)$
 
 Hence to find derivative of a function, say $g(x) = x^2$ , it is easy to verify that $Dg(x) = 2x$ but $\Delta g(x) = 2x + 1$ (using definitions mentioned above)
 
-Now, when will we be able to get the same derivative in both discrete and continuous worlds? I read a little about this question in math girls and a little more in <a href="https://archive.org/details/introductiontoca00rich" target="_blank" rel="noopener">"An introduction to the calculus of finite differences" by C.H.Richardson</a>.</p>
+Now, when will we be able to get the same derivative in both discrete and continuous worlds? I read a little about this question in math girls and a little more in <a href="https://archive.org/details/introductiontoca00rich" target="_blank" rel="noopener">"An introduction to the calculus of finite differences" by C.H.Richardson</a>.
 <p>Calculus of differences is the study of the relations that exist between the values assumed by the function whenever the independent variable takes on a series of values in arithmetic progression.
   
 Let us write f(x) as $f_x$ instead from now onwards. So $f(x+1) - f(x) = \Delta f(x) = f_{x+1} - f_x$. Using above definition we can prove the following for functions $U_x$ and $V_x$ :
@@ -83,9 +83,11 @@ Substituting a=1 and b=0 in (i) and (ii) above , we get that
 $\Delta x^{(n)} = n\cdot x^{(n-1)}$ , $\Delta^n x^{(n)} = n!$ and $\displaystyle{\Delta \frac{1}{x^{|n|}} = - \frac{n}{x^{|n+1|}}}$.
   
 Summary:
-  
-[caption id="attachment_11204" align="aligncenter" width="1021"]<img class="alignnone size-full wp-image-11204" src="https://gaurish4math.files.wordpress.com/2018/06/capture7.png" alt="Capture7" width="1021" height="262" /> source: Richardson, C. H. <i>An introduction to the calculus of finite differences.</i> pp. 10.[/caption]
+
+<img class="alignnone size-full wp-image-11204" src="https://gaurish4math.files.wordpress.com/2018/06/capture7.png" alt="Capture7" width="1021" height="262" /> source: Richardson, C. H. <i>An introduction to the calculus of finite differences.</i> pp. 10.
+
 Due to the fact that $x^{(n)}$ plays in the calculus of finite differences a role similar to that played by $x^n$ in the infinitesimal calculus, for many purposes in finite differences it is advisable to express a given polynomial in a series of factorials. A method of accomplishing this is contained in <span style="text-decoration: underline;">Newton's Theorem</span>.
-  
-[caption id="attachment_11205" align="aligncenter" width="718"]<img class="size-full wp-image-11205 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/06/capture8.png" alt="Capture8" width="718" height="425" /> source: Richardson, C. H. <i>An introduction to the calculus of finite differences.</i> pp. 10.[/caption]
-<p>Since these differences and $U_x$ are identities, they are true for all values of x, and consequently must hold for x = 0. Setting x = 0 in the given function and the differences, we have the required values for all $a_i$ and theorem is proved.
+
+<img class="size-full wp-image-11205 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/06/capture8.png" alt="Capture8" width="718" height="425" /> source: Richardson, C. H. <i>An introduction to the calculus of finite differences.</i> pp. 10.
+
+Since these differences and $U_x$ are identities, they are true for all values of x, and consequently must hold for x = 0. Setting x = 0 in the given function and the differences, we have the required values for all $a_i$ and theorem is proved.

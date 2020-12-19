@@ -20,14 +20,31 @@ The molecular strands are made of alternating sugars and phosphates. Each sugar 
 
 The sugar molecule of the strand is deoxy-ribose sugar molecule. The carbons of each sugar molecule can be numbered due to which every sugar has a 5' end and a 3' end as shown below.
 
-[gallery ids="11240,11241" type="rectangular"]
+![first](https://gaurish4math.files.wordpress.com/2018/09/pic3.jpg)
+
+![second](https://gaurish4math.files.wordpress.com/2018/09/pic4.jpg)
+
 
 DNA has anti parallel strands i.e. as we go down, if we run through 5' carbon to 3' carbon on one strand then we will run through  5' carbon to 3' carbon on the other strand only if we move upward. A single stranded DNA by convention has an orientation,  we should start at 5' end and move towards 3' end. On the other hand a linear duplex DNA has no orientation since a 3' site on one strand is opposite to 5' site on the other.
 
 <h4>Modelling DNA :</h4>
 DNA can be modelled in two ways. We can look at DNA either as a ribbon or as a curve. If we represent the DNA by the axis of the DNA, we get a curve in three dimensions. Other way to look at DNA is by considering it as a ribbon whose ends represent the two molecular strands of DNA.
 
-[gallery ids="11242,11243,11244" type="rectangular"]
+<figure class="image">
+  <img src="https://gaurish4math.files.wordpress.com/2018/09/dna1.jpg" alt="a">
+  <figcaption>DNA</figcaption>
+</figure>
+
+<figure class="image">
+  <img src="https://gaurish4math.files.wordpress.com/2018/09/dna2.jpg" alt="b">
+  <figcaption>DNA as a curve</figcaption>
+</figure>
+
+<figure class="image">
+  <img src="https://gaurish4math.files.wordpress.com/2018/09/dna3.jpg" alt="c">
+  <figcaption>DNA as a ribbon</figcaption>
+</figure>
+
 
 As it can be seen in the picture below, for the duplex DNA to be circular, we need to have even number of half twists when DNA is laid flat on plane . Since there must be two distinct edges(two molecular strands) for the DNA modelled as a ribbon, hence cyclic duplex DNA cannot form a mobius strip( Since a mobius strip has only one edge).
 
@@ -40,15 +57,28 @@ In order to answer the above question, we will have to know some very basic knot
 
 A mathematical <strong>knot </strong>is just a knotted loop of string such that the string has no thickness and its cross section is assumed to be a single point. Note that a knot should not have free ends. It has to be closed. All the knots that we obtain by deforming a particular knot, say K , will be considered equivalent to K if they have been formed by continuous deformation not involving cutting of knot.
 
-<img class=" size-full wp-image-11247 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/10/knot.jpg" alt="knot" width="597" height="193" />
+<figure>
+  <img class=" size-full wp-image-11247 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/10/knot.jpg" alt="knot" width="597" height="193" />
+  <figcaption>Adams,C. <i>The Know Book</i></figcaption>
+</figure>
+
 
 Above picture shows three equivalent knots. From above example we realize that the same knot can have different pictures. Each such picture is called a <strong>projection</strong> for the knot. The places where a knot crosses itself in the picture is called a <strong>crossing</strong> of the projection. An example is given below to understand crossings and projections better.
 
-<img class=" size-full wp-image-11248 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/10/projection.jpg" alt="projection" width="586" height="187" />
+
+<figure>
+  <img class=" size-full wp-image-11248 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/10/projection.jpg" alt="projection" width="586" height="187" />
+  <figcaption>Adams,C. <i>The Know Book</i></figcaption>
+</figure>
+
 
 While a knotted loop is called a knot, a set of such knotted loops tangled together is called a <strong>link</strong> . Just like in case of knots, two links are called equivalent if one link can be formed from another through continuous deformation which doesn't involving cutting. Example of a link is the Whitehead link.
 
-<img class=" size-full wp-image-11249 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/10/white.jpg" alt="white" width="388" height="148" />
+<figure>
+  <img class=" size-full wp-image-11249 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/10/white.jpg" alt="white" width="388" height="148" />
+  <figcaption>Adams,C. <i>The Know Book</i></figcaption>
+</figure>
+
 
 We can see in the above picture that the Whitehead link is made of two loops knotted with each other. So we say that the Whitehead link has two <strong>components.</strong> Hence we can define a knot to be a link with only one component.
 

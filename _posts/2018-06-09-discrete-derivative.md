@@ -84,10 +84,16 @@ $\Delta x^{(n)} = n\cdot x^{(n-1)}$ , $\Delta^n x^{(n)} = n!$ and $\displaystyle
   
 Summary:
 
-<img class="alignnone size-full wp-image-11204" src="https://gaurish4math.files.wordpress.com/2018/06/capture7.png" alt="Capture7" width="1021" height="262" /> source: Richardson, C. H. <i>An introduction to the calculus of finite differences.</i> pp. 10.
+<figure>
+  <img class="alignnone size-full wp-image-11204" src="https://gaurish4math.files.wordpress.com/2018/06/capture7.png" alt="Capture7" width="1021" height="262" /> 
+  <figcaption>Richardson, C. H. <i>An introduction to the calculus of finite differences.</i> pp. 10.</figcaption>
+</figure>
 
 Due to the fact that $x^{(n)}$ plays in the calculus of finite differences a role similar to that played by $x^n$ in the infinitesimal calculus, for many purposes in finite differences it is advisable to express a given polynomial in a series of factorials. A method of accomplishing this is contained in <span style="text-decoration: underline;">Newton's Theorem</span>.
 
-<img class="size-full wp-image-11205 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/06/capture8.png" alt="Capture8" width="718" height="425" /> source: Richardson, C. H. <i>An introduction to the calculus of finite differences.</i> pp. 10.
+<figure>
+  <img class="size-full wp-image-11205 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/06/capture8.png" alt="Capture8" width="718" height="425" />
+  <figcaption>Richardson, C. H. <i>An introduction to the calculus of finite differences.</i> pp. 10.</figcaption>
+</figure>
 
 Since these differences and $U_x$ are identities, they are true for all values of x, and consequently must hold for x = 0. Setting x = 0 in the given function and the differences, we have the required values for all $a_i$ and theorem is proved.

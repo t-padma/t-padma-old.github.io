@@ -14,7 +14,7 @@ DNA super-coiling is said to occur when the DNA strand experiences strain which 
 <h3>Structure of DNA</h3>
 It is well known that deoxy-ribonucleic acid or DNA is a double helix that contains the instructions an organism needs to develop, live and reproduce. DNA is formed by pairs of long molecular strands that are bonded together by ladder rungs. This structure spirals around itself to get the double helix structure.
 
-<img class=" size-full wp-image-11239 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/09/pic1.jpg" alt="pic1" width="485" height="266" />
+![zero](https://gaurish4math.files.wordpress.com/2018/09/pic1.jpg)
 
 The molecular strands are made of alternating sugars and phosphates. Each sugar is bonded to one of four bases - Adenine(A) , Thyamine(T) , Cytosine(C) , Guanine(G). The rungs are formed by hydrogen bonds between bases. Note that hydrogen bonds are always formed between "A", "T" and "G", "C". The sequence of A's , T's , G's , C's as we run down one of the strands is the genetic code (which gives a blueprint for life).
 
@@ -48,10 +48,10 @@ DNA can be modelled in two ways. We can look at DNA either as a ribbon or as a c
 
 As it can be seen in the picture below, for the duplex DNA to be circular, we need to have even number of half twists when DNA is laid flat on plane . Since there must be two distinct edges(two molecular strands) for the DNA modelled as a ribbon, hence cyclic duplex DNA cannot form a mobius strip( Since a mobius strip has only one edge).
 
-<img class=" size-full wp-image-11245 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/09/pic5.jpg" alt="pic5" width="470" height="307" />
- 
+![third](https://gaurish4math.files.wordpress.com/2018/09/pic5.jpg)
 
-<strong>Why does DNA super-coiling happen?</strong>
+
+## Why does DNA super-coiling happen? 
 
 In order to answer the above question, we will have to know some very basic knot theory definitions.
 

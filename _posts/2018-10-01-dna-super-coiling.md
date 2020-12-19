@@ -9,7 +9,7 @@ tags:
   - biology
 ---
 
-DNA super-coiling is said to occur when the DNA strand experiences strain which is either due to over-winding or under-winding of DNA. DNA super-coiling is important in a number of biological processes. In this post we would like to use a branch of topology to explain super-coiling. Before going to the topology part, we need to know some basics about the structure of DNA. I have written this blog by following the book "The knot book : An Elementary Introduction to the mathematical theory of knots" by Colin Adams.
+DNA super-coiling is said to occur when the DNA strand experiences strain which is either due to over-winding or under-winding of DNA. DNA super-coiling is important in a number of biological processes. In this post we would like to use a branch of topology to explain super-coiling. Before going to the topology part, we need to know some basics about the structure of DNA. I have written this blog by following the book <a href="https://bookstore.ams.org/KNOT" target="_blank" rel="noopener">"The knot book" by Colin Adams</a>.
 
 ## Structure of DNA
 It is well known that deoxy-ribonucleic acid or DNA is a double helix that contains the instructions an organism needs to develop, live and reproduce. DNA is formed by pairs of long molecular strands that are bonded together by ladder rungs. This structure spirals around itself to get the double helix structure.
@@ -59,7 +59,7 @@ A mathematical <strong>knot </strong>is just a knotted loop of string such that
 
 <figure>
   <img class=" size-full wp-image-11247 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/10/knot.jpg" alt="knot" width="597" height="193" />
-  <figcaption>Adams,C. <i>The Know Book</i></figcaption>
+  <figcaption>Adams,C. <i>The Knot Book</i></figcaption>
 </figure>
 
 
@@ -68,7 +68,7 @@ Above picture shows three equivalent knots. From above example we realize that t
 
 <figure>
   <img class=" size-full wp-image-11248 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/10/projection.jpg" alt="projection" width="586" height="187" />
-  <figcaption>Adams,C. <i>The Know Book</i></figcaption>
+  <figcaption>Adams,C. <i>The Knot Book</i></figcaption>
 </figure>
 
 
@@ -76,7 +76,7 @@ While a knotted loop is called a knot, a set of such knotted loops tangled toget
 
 <figure>
   <img class=" size-full wp-image-11249 aligncenter" src="https://gaurish4math.files.wordpress.com/2018/10/white.jpg" alt="white" width="388" height="148" />
-  <figcaption>Adams,C. <i>The Know Book</i></figcaption>
+  <figcaption>Adams,C. <i>The Knot Book</i></figcaption>
 </figure>
 
 

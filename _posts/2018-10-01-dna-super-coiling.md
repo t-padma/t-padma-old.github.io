@@ -9,7 +9,7 @@ tags:
   - biology
 ---
 
-DNA super-coiling is said to occur when the DNA strand experiences strain which is either due to over-winding or under-winding of DNA. DNA super-coiling is important in a number of biological processes. In this post we would like to use a branch of topology to explain super-coiling. Before going to the topology part, we need to know some basics about the structure of DNA. I have written this blog by following the book <a href="https://bookstore.ams.org/KNOT" target="_blank" rel="noopener">"The knot book" by Colin Adams</a>.
+DNA super-coiling is said to occur when the DNA strand experiences strain which is either due to over-winding or under-winding of DNA. DNA super-coiling is important in a number of biological processes. In this post we would like to use a branch of topology to explain super-coiling. Before going to the topology part, we need to know some basics about the structure of DNA. I have written this blog by following the book <a href="https://bookstore.ams.org/KNOT" target="_blank" rel="noopener">"The Knot Book" by Colin Adams</a>.
 
 ## Structure of DNA
 It is well known that deoxy-ribonucleic acid or DNA is a double helix that contains the instructions an organism needs to develop, live and reproduce. DNA is formed by pairs of long molecular strands that are bonded together by ladder rungs. This structure spirals around itself to get the double helix structure.

@@ -14,7 +14,6 @@ Education
 * M.Sc. (5-year integrated) in Mathematics, ongoing
   * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
   * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/). </em>
-  * Current CGPA: 8.02 (10-point scale).
 
 Awards and Fellowships
 ------

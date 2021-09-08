@@ -11,13 +11,19 @@ redirect_from:
 
 Education
 ---------
-* M.Sc. (5-year integrated) in Mathematics, ongoing
+* Ph.D. in Statistics, Ongoing
+  * University: Pennsylvania State University, University Park
+    * College: Eberly College of Science
+
+* M.Sc. (5-year integrated) in Mathematics, 2021
   * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
-  * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/). </em>
+    * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/). </em>
+  * Advisors: Dr. Nabin Kumar Jana and Dr. Shyamal Krishna De 
+    * Thesis: [Selected topics in Multivariate Statistical Analysis](https://t-padma.github.io/files/padma_MS-thesis.pdf)
 
 Awards and Fellowships
 ------
-* <u>Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship</u> - Department of Science and Technology, Government of India (August 01, 2016 - present) 
+* <u>Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship</u> - Department of Science and Technology, Government of India (August 01, 2016 - July 15, 2021) 
 
 Research Experience
 -------

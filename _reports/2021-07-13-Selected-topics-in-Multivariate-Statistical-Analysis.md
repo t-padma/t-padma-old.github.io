@@ -12,4 +12,5 @@ The focus of the thesis was to learn and implement different multivariate statis
 
 [Download the report](https://t-padma.github.io/files/padma_MS-thesis.pdf)
 
+[Download the presentation slides](https://t-padma.github.io/files/MS-thesis-presentation-slides.pdf)
 

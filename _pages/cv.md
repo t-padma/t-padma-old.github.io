@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---------
-* Ph.D. in Statistics, Ongoing
+* Ph.D. in Statistics, 2021-present
   * University: Pennsylvania State University, University Park
     * College: Eberly College of Science
 
@@ -19,7 +19,7 @@ Education
   * University: <em>[Homi Bhabha National Institute, Mumbai](http://www.hbni.ac.in/).</em>
     * Constituent Institution: <em>[National Institute of Science Education and Research, Bhubaneswar](http://www.niser.ac.in/). </em>
   * Advisors: Dr. Nabin Kumar Jana and Dr. Shyamal Krishna De 
-    * Thesis: [Selected topics in Multivariate Statistical Analysis](https://t-padma.github.io/files/padma_MS-thesis.pdf)
+    * Thesis: [Selected topics in Multivariate Statistical Analysis](https://t-padma.github.io/files/padma_thesis_final.pdf)
 
 Awards and Fellowships
 ------

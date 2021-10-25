@@ -1,3 +1,4 @@
+-----
 title: "Selected topics in Multivariate Statistical Analysis"
 collection: reports
 permalink: /reports/2021-07-13-Selected-topics-in-Multivariate-Statistical-Analysis
